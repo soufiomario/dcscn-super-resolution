@@ -1,10 +1,9 @@
 
-# Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network
+# Utilisation des méthode de deeep learning pour amélioration de la qualité des images satellitaires 
 
-by [Jin Yamanaka](https://github.com/jiny2001), Shigesumi Kuwashima and [Takio Kurita](http://home.hiroshima-u.ac.jp/tkurita/profile-e.html)
+by [Omar SOUFI](https://github.com/soufiomario), Projet CRTS
 
-
-## Overview (Ver 2.)
+## Mise en situation
 
 This is a tensorflow implementation of ["Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network"](https://arxiv.org/abs/1707.05425), a deep learning based Single-Image Super-Resolution (SISR) model. We named it **DCSCN**. If you are checking the paper's code and results, please check [ver1 branch](https://github.com/jiny2001/dcscn-super-resolution/tree/ver1).
 
